@@ -3,7 +3,6 @@ package th.ac.su.ict.supaporn.foodlovers
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_detail.*
-import th.ac.su.ict.supaporn.foodlovers.R
 
 class DetailActivity : AppCompatActivity() {
 

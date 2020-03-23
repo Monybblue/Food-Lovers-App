@@ -11,7 +11,7 @@ import th.ac.su.ict.supaporn.foodlovers.DetailActivity
 import th.ac.su.ict.supaporn.foodlovers.Utils.getJsonDataFromAsset
 import th.ac.su.ict.supaporn.foodlovers.data.Food
 import th.ac.su.ict.supaporn.foodlovers.data.FoodAdapter
-import th.ac.su.ict.supaporn.foodlovers.R
+
 
 class MainActivity : AppCompatActivity() {
 
